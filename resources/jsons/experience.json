@@ -1,0 +1,95 @@
+{
+	"experience":
+	[
+		{
+			"date": 2023,
+			"type": "Software Engineer",
+			"title": "BlaBlaCar",
+			"description": "Backend development for BlaBlaCar Daily, a dedicated app for short-distance carpooling within the BlaBlaCar ecosystem. My role involves resolving bugs and implementing new features to enhance user experience.",
+			"tags":
+			[
+				{ "name": "Python", "url": "https://www.python.org/" },
+				{ "name": "Flask", "url": "https://flask.palletsprojects.com/" },
+				{ "name": "Ruby", "url": "https://www.ruby-lang.org/" },
+				{ "name": "Rails", "url": "https://rubyonrails.org/" },
+				{ "name": "SQL", "url": "https://sql.sh" }
+			],
+			"link": "https://www.blablacar.co.uk/",
+			"video": "resources/videos/experience/BlaBlaCar.mp4",
+			"image": "resources/images/experience/BlaBlaCar.webp"
+		},
+		{
+			"date": 2023,
+			"type": "Software Engineer Intern",
+			"title": "Klaxit",
+			"description": "Backend development for the Klaxit application (new feature implementation and bug fixes). Additionally, I developed a machine learning model to detect fraudulent activity (data collection, training, automation, and deployment).",
+			"tags":
+			[
+				{ "name": "Ruby", "url": "https://www.ruby-lang.org/" },
+				{ "name": "Rails", "url": "https://rubyonrails.org/" },
+				{ "name": "SQL", "url": "https://sql.sh" },
+				{ "name": "Python", "url": "https://www.python.org/" },
+				{ "name": "TensorFlow", "url": "https://www.tensorflow.org/" }
+			],
+			"link": "https://www.klaxit.com/",
+			"video": "none",
+			"image": "resources/images/experience/Klaxit.webp"
+		},
+		{
+			"date": 2022,
+			"type": "Software Engineer Intern",
+			"title": "Fitthree Pte Ltd",
+			"description": "Design a system that establish optimized delivery routes for the company's drivers based on a list of orders and a set of constraints. The generated routes will be fed to the tracking management system.",
+			"tags":
+			[
+				{ "name": "C#", "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" },
+				{ "name": "SQL", "url": "https://sql.sh" },
+				{ "name": "jQuery", "url": "https://jquery.com/" },
+				{ "name": "Bootstrap", "url": "https://getbootstrap.com/" }
+			],
+			"link": "https://fitthree.com/",
+			"video": "none",
+			"image": "resources/images/experience/Fitthree.webp"
+		},
+		{
+			"date": 2019,
+			"type": "Developer Intern",
+			"title": "C.E.A. Paris-Saclay",
+			"description": "A two months internship at the C.E.A. Paris-Saclay, my assignment was to program a computer simulation predicting the behavior of neutrons in the core of a nuclear reactor.",
+			"tags":
+			[
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" }
+			],
+			"link": "https://www.cea.fr/english",
+			"video": "none",
+			"image": "resources/images/experience/Cea.webp"
+		},
+		{
+			"date": 2021,
+			"type": "Research Intern",
+			"title": "C.E.E.S.A.R.",
+			"description": "A one month worker internship where I created a database of autopsy reports and modified high speed crash test footage.",
+			"tags":
+			[
+				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" }
+			],
+			"link": "https://www.ceesar.fr/en/",
+			"video": "none",
+			"image": "resources/images/experience/Ceesar.webp"
+		},
+		{
+			"date": 2015,
+			"type": "Video Producer",
+			"title": "DIMENSION",
+			"description": "I create videos for a popular science program on the Internet called DIMENSION. It's a 5 minutes animated video format where I talk about many topics such as astrophysics, mathematics or computer science.",
+			"tags":
+			[
+				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" },
+				{ "name": "Illustrator", "url": "https://www.adobe.com/products/illustrator.html" }
+			],
+			"link": "https://www.youtube.com/c/DIMENSI0N",
+			"video": "resources/videos/experience/Dimension.mp4",
+			"image": "resources/images/experience/Dimension.webp"
+		}
+	]
+}

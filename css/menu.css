@@ -1,0 +1,87 @@
+#menu_div
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	position: fixed;
+	z-index: 100;
+	width: clamp(0px, 100%, 400px);
+	height: 100%;
+	background-color: var(--dark_blue);
+	right: 0px;
+	transform: translateX(clamp(0px, 100%, 400px));
+	transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+}
+
+#menu_div .menu_icon
+{
+	display: block;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	padding: 20px 20px 20px 20px;
+	cursor: pointer;
+	stroke: var(--white);
+	stroke-width: 10px;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	width: 30px;
+	transition: stroke 0.2s ease;
+}
+
+#menu_div .menu_icon:hover
+{
+	stroke: var(--light_blue);
+}
+
+#menu_div .menu ol
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 50px;
+}
+
+#menu_div .menu li
+{
+	display: flex;
+}
+
+#menu_div .menu a
+{
+	display: flex;
+	pointer-events: all;
+	padding: 15px 22.5px;
+	font-family: raleway_semi_bold;
+	font-size: 20px;
+	color: var(--white);
+	text-decoration: none;
+}
+
+#menu_div .menu .not_button
+{
+	transition: color 0.2s ease;
+}
+
+#menu_div .menu .not_button:hover
+{
+	color: var(--light_blue);
+}
+
+#menu_div .menu .button
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: var(--light_blue);
+	padding: 13.5px 30px 13.5px 34.5px;
+}
+
+#menu_div .menu .button .button_arrow
+{
+	height: 15px;
+	margin-left: 15px;
+	transform: rotate(-90deg);
+}
