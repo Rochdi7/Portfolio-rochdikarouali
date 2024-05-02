@@ -37,7 +37,7 @@
 			"video": "resources/videos/Video_240425170717.mp4",
 			"image": "resources/images/projects/Rockpapper.PNG",
 			"logo": "resources/images/projects/Rockpapper.PNG",
-			"categories": ["back-end"]
+			"categories": ["back-end", "Default"]
 		},
 		{
 			"date": 2023,
@@ -55,7 +55,7 @@
 			"video": "resources/videos/projects/nombreenlettre.mp4",
 			"image": "resources/images/projects/nombrenelettreexemple.PNG",
 			"logo": "resources/images/projects/nombrenelettreexemple.PNG",
-			"categories": ["back-end"]
+			"categories": ["back-end", "Default"]
 		},
 		{
 			"date": 2023,
@@ -75,5 +75,6 @@
 			"logo": "resources/images/projects/Snack Management.png",
 			"categories": ["back-end", "front-end"]
 		}
+		
 	]
 }
