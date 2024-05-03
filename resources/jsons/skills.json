@@ -55,7 +55,7 @@
                 },
                 {
                     "name": "HTML",
-                    "logo": "resources/images/skills/Html.svg",
+                    "logo": "resources/svgs/skills/Html.svg",
                     "link": "#"
                 },
                 {
@@ -70,7 +70,7 @@
                 },
                 {
                     "name": "Bootstrap",
-                    "logo": "resources/images/skills/Bootstrap.svg",
+                    "logo": "resources/svgs/skills/Bootstrap.svg",
                     "link": "#"
                 }
             ]
