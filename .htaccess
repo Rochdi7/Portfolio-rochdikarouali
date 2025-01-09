@@ -2,5 +2,3 @@ RewriteEngine On
 RewriteBase /
 Options -Indexes
 DirectoryIndex index.html
-
-asaaad
